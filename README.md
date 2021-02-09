@@ -1,2 +1,7 @@
 # hello-world
-Just another reprository 
+
+Hi world! 
+
+I'm Ukrainian student 
+
+
